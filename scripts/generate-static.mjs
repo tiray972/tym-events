@@ -30,10 +30,6 @@ for (const ext of ['eot', 'woff', 'woff2', 'ttf', 'svg']) {
   html = html.split(`${fontBase}/entypo-fontello.${ext}`).join(`/fonts/entypo-fontello.${ext}`);
 }
 
-// --- Supprimer extensions navigateur ---
-html = html.replace(/<plasmo-csui[\s\S]*?<\/plasmo-csui>/g, '');
-html = html.replace(/<div id="give-freely-root[\s\S]*?<\/div>\s*(?=<\/body>)/g, '');
-
 // --- Patch CSS: forcer visibilité des éléments animés qui restent cachés sans JS ---
 const animationFix = `
 <style id="av-animation-fix">
