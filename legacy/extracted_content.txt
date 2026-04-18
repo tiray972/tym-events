@@ -1,0 +1,1103 @@
+<div id="main" class="all_colors" data-scroll-offset="88">
+
+            <div id="av_section_1"
+                class="avia-section header_color avia-section-no-padding avia-no-shadow  avia-full-stretch avia-bg-style-scroll  avia-builder-el-0  el_before_av_section  avia-builder-el-first   av-minimum-height av-minimum-height-100  container_wrap fullsize"
+                style="background-color: #7bb0e7; background-repeat: no-repeat; background-image: url(https://tym-events.com/wp-content/uploads/2022/01/HAUT-DE-PAGE-TYM-EVENTS.png), linear-gradient(to bottom right,#5a72fc,#ffffff);background-attachment: scroll; background-position: center center;  "
+                data-section-bg-repeat="stretch" data-av_minimum_height_pc="100">
+                <div class="av-section-color-overlay-wrap"><a href="#next-section" title=""
+                        class="scroll-down-link  av-custom-scroll-down-color" style="color: #ffffff;" aria-hidden="true"
+                        data-av_icon="" data-av_iconfont="entypo-fontello"></a>
+                    <div class="container">
+                        <main role="main" itemprop="mainContentOfPage"
+                            class="template-page content  av-content-full alpha units">
+                            <div class="post-entry post-entry-type-page post-entry-241">
+                                <div class="entry-content-wrapper clearfix">
+                                    <div class="flex_column_table av-equal-height-column-flextable -flextable">
+                                        <div class="flex_column av_one_full av-animated-generic pop-up flex_column_table_cell av-equal-height-column av-align-middle av-zero-column-padding first avia-builder-el-1 avia-builder-el-no-sibling avia_start_animation avia_start_delayed_animation"
+                                            style="border-radius:0px; ">
+                                            <div style="padding-bottom:0px; margin:0 0 0 0; color:#ffffff;font-size:100px;"
+                                                class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-2  el_before_av_hr  avia-builder-el-first  av-inherit-size ">
+                                                <h3 class="av-special-heading-tag  av-small-font-size-overwrite av-small-font-size-25 av-mini-font-size-overwrite av-mini-font-size-50"
+                                                    itemprop="headline">L’AGENCE NEW GENERATION</h3>
+                                                <div class="special-heading-border">
+                                                    <div class="special-heading-inner-border"
+                                                        style="border-color:#ffffff"></div>
+                                                </div>
+                                            </div>
+                                            <div style=" margin-top:20px; margin-bottom:15px;"
+                                                class="hr hr-custom hr-center hr-icon-no   avia-builder-el-3  el_after_av_heading  el_before_av_textblock ">
+                                                <span class="hr-inner  inner-border-av-border-thin"
+                                                    style=" width:50px; border-color:rgba(255,255,255,0.7);"><span
+                                                        class="hr-inner-style"></span></span></div>
+                                            <section class="av_textblock_section " itemscope="itemscope"
+                                                itemtype="https://schema.org/CreativeWork">
+                                                <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-20"
+                                                    style="font-size:23px; color:#ffffff; " itemprop="text">
+                                                    <p style="text-align: center;">INFLUENCE &amp; COMMUNICATION</p>
+                                                </div>
+                                            </section>
+                                            <div style="height:130px"
+                                                class="hr hr-invisible   avia-builder-el-5  el_after_av_textblock  el_before_av_button ">
+                                                <span class="hr-inner "><span class="hr-inner-style"></span></span>
+                                            </div>
+                                            <div
+                                                class="avia-button-wrap avia-button-center  avia-builder-el-6  el_after_av_hr  avia-builder-el-last ">
+                                                <a href="#contact"
+                                                    class="avia-button   avia-icon_select-no avia-color-light avia-size-x-large avia-position-center "><span
+                                                        class="avia_iconbox_title">CONTACT</span></a></div>
+                                        </div>
+                                    </div><!--close column table wrapper. Autoclose: 1 -->
+
+                                </div>
+                            </div>
+                        </main><!-- close content main element -->
+                    </div>
+                </div>
+            </div>
+            <div id="agence"
+                class="avia-section header_color avia-section-large avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-7  el_after_av_section  el_before_av_section   container_wrap fullsize"
+                style="background-color: #ffffff;  ">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div class="flex_column av_three_fifth  av-animated-generic pop-up  flex_column_div av-zero-column-padding first  avia-builder-el-8  el_before_av_two_fifth  avia-builder-el-first  "
+                                    style="border-radius:0px; ">
+                                    <div style="padding-bottom:20px; margin:0 0 0 0; color:#4a4a4a;font-size:90px;"
+                                        class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-9  el_before_av_hr  avia-builder-el-first  av-inherit-size ">
+                                        <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-60"
+                                            itemprop="headline">L’AGENCE</h3>
+                                        <div class="special-heading-border">
+                                            <div class="special-heading-inner-border" style="border-color:#4a4a4a">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style=" margin-top:20px; margin-bottom:20px;"
+                                        class="hr hr-custom hr-center hr-icon-no   avia-builder-el-10  el_after_av_heading  el_before_av_textblock ">
+                                        <span class="hr-inner  inner-border-av-border-thin"
+                                            style=" width:40px; border-color:#000000;"><span
+                                                class="hr-inner-style"></span></span></div>
+                                    <section class="av_textblock_section " itemscope="itemscope"
+                                        itemtype="https://schema.org/CreativeWork">
+                                        <div class="avia_textblock  av_inherit_color "
+                                            style="font-size:23px; color:#0f0f0f; " itemprop="text">
+                                            <p><span style="font-weight: 400;">En 2021 le monde de l’influence est
+                                                    désormais très prisé et faire sa place devient un véritable parcours
+                                                    du combattant. <a
+                                                        href="https://www.instagram.com/agencetymevents/">Tym-Events</a>
+                                                    analyse et mise sur sa stratégie originale et créative pour une
+                                                    meilleure communication et le développement de votre visibilité à
+                                                    travers les différents réseaux</span></p>
+                                        </div>
+                                    </section>
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-12  el_after_av_textblock  avia-builder-el-last  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/01/Sans-titre-1.png"
+                                                    alt="" title="Sans titre" height="150" width="500"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_two_fifth  av-animated-generic pop-up  flex_column_div av-zero-column-padding   avia-builder-el-13  el_after_av_three_fifth  avia-builder-el-last  "
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-14  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/02/ICON-WEB-TYM-EVENT.png"
+                                                    alt="" title="ICON WEB TYM EVENT" height="1000" width="1000"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+                <div class="av-extra-border-element border-extra-diagonal border-extra-diagonal-inverse ">
+                    <div class="av-extra-border-outer">
+                        <div class="av-extra-border-inner" style="background-color:#ffffff;"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="work"
+                class="avia-section main_color avia-section-no-padding avia-no-border-styling  avia-full-stretch avia-bg-style-scroll  avia-builder-el-15  el_after_av_section  el_before_av_section   container_wrap fullsize"
+                style="background-color: #30d1fc;background-repeat: no-repeat; background-image: url(https://tym-events.com/wp-content/uploads/2022/01/hero-pattern.png), linear-gradient(#30d1fc,#f32dd0);background-attachment: scroll; background-position: top center;  "
+                data-section-bg-repeat="stretch">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div style="padding-bottom:0px; margin:80px 0 0 0; color:#ffffff;font-size:100px;"
+                                    class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-16  el_before_av_hr  avia-builder-el-first  av-inherit-size ">
+                                    <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-60"
+                                        itemprop="headline">NOS FORCES</h3>
+                                    <div class="special-heading-border">
+                                        <div class="special-heading-inner-border" style="border-color:#ffffff"></div>
+                                    </div>
+                                </div>
+                                <div style=" margin-top:20px; margin-bottom:90px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-17  el_after_av_heading  el_before_av_one_third ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:50px; border-color:#ffffff;"><span
+                                            class="hr-inner-style"></span></span></div>
+                                <div class="flex_column_table av-equal-height-column-flextable -flextable"
+                                    style="margin-top:0px; margin-bottom:-160px; ">
+                                    <div class="flex_column av_one_third  av-animated-generic pop-up  no_margin flex_column_table_cell av-equal-height-column av-align-middle first  avia-builder-el-18  el_after_av_hr  el_before_av_one_third  "
+                                        style="background: #ffffff; border-width:4px; border-color:#f20acb; border-style:solid; box-shadow: 0 0 5px 0 rgba(0,0,0,0.18); padding:40px; background-color:#ffffff; border-radius:30px; ">
+                                        <div class="avia-image-container avia_animated_image avia_animate_when_almost_visible pop-up av-styling- av-hover-grow   avia-builder-el-19  el_before_av_heading  avia-builder-el-first  avia-align-center "
+                                            itemprop="image" itemscope="itemscope"
+                                            itemtype="https://schema.org/ImageObject">
+                                            <div class="avia-image-container-inner">
+                                                <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                        src="https://tym-events.com/wp-content/uploads/2022/01/DIAMS-ROSE.png"
+                                                        alt="" title="DIAMS ROSE" height="700" width="800"
+                                                        itemprop="thumbnailUrl"></div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:20px; margin:2.4em 0 0.5em 0; color:#4a4a4a;font-size:45px;"
+                                            class="av-special-heading av-special-heading-h4 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-20  el_after_av_image  el_before_av_textblock  av-inherit-size ">
+                                            <h4 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-50"
+                                                itemprop="headline">QUALITÉ</h4>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#4a4a4a">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section class="av_textblock_section " itemscope="itemscope"
+                                            itemtype="https://schema.org/CreativeWork">
+                                            <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-20"
+                                                style="font-size:14px; color:#4a4a4a; " itemprop="text">
+                                                <p style="text-align: center;"><span style="font-weight: 400;">Notre but
+                                                        premier étant votre satisfaction, que vous soyez une petite ou
+                                                        une grosse PME, nous répondrons à vos attentes avec un cahier
+                                                        des charges unique et sur-mesure correspondant à vos
+                                                        besoins.</span></p>
+                                            </div>
+                                        </section>
+                                        <div style="height:50px"
+                                            class="hr hr-invisible   avia-builder-el-22  el_after_av_textblock  avia-builder-el-last ">
+                                            <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                    </div>
+                                    <div class="flex_column av_one_third  avia-full-stretch no_margin flex_column_table_cell av-equal-height-column av-align-middle   avia-builder-el-23  el_after_av_one_third  el_before_av_one_third  "
+                                        style="background-color:#0accfc; background:url(https://tym-events.com/wp-content/uploads/2022/01/hero-pattern.png) top left no-repeat , linear-gradient(to bottom right,#0accfc,#f20acb); border-width:4px; border-color:#ffffff; border-style:solid; box-shadow: 0 0 10px 0 rgba(0,0,0,0.18); -webkit-transform: scale(1.1); -ms-transform: scale(1.1); transform: scale(1.1); z-index: 4;padding:40px; border-radius:30px; ">
+                                        <div class="avia-image-container avia_animated_image avia_animate_when_almost_visible pop-up av-styling- av-hover-grow   avia-builder-el-24  el_before_av_heading  avia-builder-el-first  avia-align-center "
+                                            itemprop="image" itemscope="itemscope"
+                                            itemtype="https://schema.org/ImageObject">
+                                            <div class="avia-image-container-inner">
+                                                <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                        src="https://tym-events.com/wp-content/uploads/2022/01/DIAMS-BLANC.png"
+                                                        alt="" title="DIAMS BLANC" height="700" width="800"
+                                                        itemprop="thumbnailUrl"></div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:20px; margin:2.4em 0 0.5em 0; color:#ffffff;font-size:45px;"
+                                            class="av-special-heading av-special-heading-h4 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-25  el_after_av_image  el_before_av_textblock  av-inherit-size ">
+                                            <h4 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-50"
+                                                itemprop="headline">RÉALISATION</h4>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#ffffff">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section class="av_textblock_section " itemscope="itemscope"
+                                            itemtype="https://schema.org/CreativeWork">
+                                            <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-20"
+                                                style="font-size:14px; color:#ffffff; " itemprop="text">
+                                                <p style="text-align: center;"><span style="font-weight: 400;">Nos
+                                                        influenceurs très actifs sur les réseaux grâce à notre
+                                                        stratégie, vous permettront de vous démarquer sur la promotion
+                                                        de votre marque et cela, sur tous types de réseaux
+                                                        choisis.</span></p>
+                                            </div>
+                                        </section>
+                                        <div style="height:50px"
+                                            class="hr hr-invisible   avia-builder-el-27  el_after_av_textblock  avia-builder-el-last ">
+                                            <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                    </div>
+                                    <div class="flex_column av_one_third  av-animated-generic pop-up  no_margin flex_column_table_cell av-equal-height-column av-align-middle   avia-builder-el-28  el_after_av_one_third  el_before_av_hr  "
+                                        style="background: #ffffff; border-width:4px; border-color:#0accfc; border-style:solid; box-shadow: 0 0 5px 0 rgba(0,0,0,0.18); padding:40px; background-color:#ffffff; border-radius:30px; ">
+                                        <div class="avia-image-container avia_animated_image avia_animate_when_almost_visible pop-up av-styling- av-hover-grow   avia-builder-el-29  el_before_av_heading  avia-builder-el-first  avia-align-center "
+                                            itemprop="image" itemscope="itemscope"
+                                            itemtype="https://schema.org/ImageObject">
+                                            <div class="avia-image-container-inner">
+                                                <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                        src="https://tym-events.com/wp-content/uploads/2022/01/DIAMS-BLEUE.png"
+                                                        alt="" title="DIAMS BLEUE" height="700" width="800"
+                                                        itemprop="thumbnailUrl"></div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:20px; margin:2.4em 0 0.5em 0; color:#4a4a4a;font-size:45px;"
+                                            class="av-special-heading av-special-heading-h4 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-30  el_after_av_image  el_before_av_textblock  av-inherit-size ">
+                                            <h4 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-50"
+                                                itemprop="headline">SUIVI CONSTANT</h4>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#4a4a4a">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section class="av_textblock_section " itemscope="itemscope"
+                                            itemtype="https://schema.org/CreativeWork">
+                                            <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-20"
+                                                style="font-size:14px; color:#4a4a4a; " itemprop="text">
+                                                <p style="text-align: center;"><span style="font-weight: 400;">Tout au
+                                                        long du partenariat, nous vous accompagneront afin de s’adapter
+                                                        au meilleur de vos besoins grâce au professionnalisme de nos
+                                                        influenceurs et nous assureront le suivi des retombées
+                                                        médiatiques mise en place sur vos campagnes pour l’amélioration
+                                                        de votre image dans le futur.</span></p>
+                                            </div>
+                                        </section>
+                                        <div style="height:50px"
+                                            class="hr hr-invisible   avia-builder-el-32  el_after_av_textblock  avia-builder-el-last ">
+                                            <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                    </div>
+                                </div><!--close column table wrapper. Autoclose: 1 -->
+                                <div style=" margin-top:20px; margin-bottom:90px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-33  el_after_av_one_third  avia-builder-el-last ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:40px; border-color:#45c0d6;"><span
+                                            class="hr-inner-style"></span></span></div>
+
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+            </div>
+            <div id="ambassadeurs"
+                class="avia-section main_color avia-section-no-padding avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-34  el_after_av_section  el_before_av_masonry_gallery   container_wrap fullsize"
+                style="background-color: #f7f7f7;  ">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div style="padding-bottom:0px; margin:120px 0 0 0; color:#4a4a4a;font-size:100px;"
+                                    class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-35  el_before_av_textblock  avia-builder-el-first  av-inherit-size ">
+                                    <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-50"
+                                        itemprop="headline">NOS AMBASSADEURS</h3>
+                                    <div class="special-heading-border">
+                                        <div class="special-heading-inner-border" style="border-color:#4a4a4a"></div>
+                                    </div>
+                                </div>
+                                <section class="av_textblock_section " itemscope="itemscope"
+                                    itemtype="https://schema.org/CreativeWork">
+                                    <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-15"
+                                        style="font-size:23px; color:#4a4a4a; " itemprop="text">
+                                        <p style="text-align: center;"><span style="font-weight: 400;">SPORT – TV – ART
+                                                – MUSIQUE – BLOG</span></p>
+                                    </div>
+                                </section>
+                                <div style=" margin-top:20px; margin-bottom:50px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-37  el_after_av_textblock  avia-builder-el-last ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:40px; border-color:#777777;"><span
+                                            class="hr-inner-style"></span></span></div>
+
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+            </div>
+            <div id="portfolio"
+                class="main_color   avia-builder-el-38  el_after_av_section  el_before_av_section  masonry-not-first avia-no-border-styling masonry-no-border container_wrap fullsize"
+                style=" ">
+                <div id="av-masonry-1"
+                    class="av-masonry noHover av-fixed-size av-no-gap av-hover-overlay-grayscale av-masonry-animation-active av-masonry-col-5 av-caption-on-hover av-caption-style- av-masonry-gallery av-orientation-square avia_sortable_active"
+                    style="background-color:#f7f7f7; ">
+                    <div class="av-masonry-container isotope av-js-disabled "
+                        style="position: relative; height: 401.578px;">
+                        <div class="av-masonry-entry isotope-item av-masonry-item-no-image "
+                            style="position: absolute; left: 0%; top: 0px;"></div><a
+                            href="https://tym-events.com/wp-content/uploads/2022/01/1.jpg" id="av-masonry-1-item-1138"
+                            data-av-masonry-item="1138"
+                            class="av-masonry-entry isotope-item post-1138 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="1" itemprop="thumbnailUrl" style="position: absolute; left: 0%; top: 0px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/01/1-705x705.jpg);"
+                                        title="1"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a
+                            href="https://tym-events.com/wp-content/uploads/2022/02/12.png" id="av-masonry-1-item-1232"
+                            data-av-masonry-item="1232"
+                            class="av-masonry-entry isotope-item post-1232 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="12" itemprop="thumbnailUrl" style="position: absolute; left: 19.8212%; top: 0px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/02/12-705x705.png);"
+                                        title="12"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a
+                            href="https://tym-events.com/wp-content/uploads/2022/02/11.png" id="av-masonry-1-item-1231"
+                            data-av-masonry-item="1231"
+                            class="av-masonry-entry isotope-item post-1231 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="11" itemprop="thumbnailUrl" style="position: absolute; left: 39.7415%; top: 0px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/02/11-705x705.png);"
+                                        title="11"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a
+                            href="https://tym-events.com/wp-content/uploads/2022/02/INFLUENCEUR-WEB.png"
+                            id="av-masonry-1-item-1203" data-av-masonry-item="1203"
+                            class="av-masonry-entry isotope-item post-1203 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="INFLUENCEUR WEB" itemprop="thumbnailUrl"
+                            style="position: absolute; left: 59.6619%; top: 0px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/02/INFLUENCEUR-WEB-705x705.png);"
+                                        title="INFLUENCEUR WEB"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a href="https://tym-events.com/wp-content/uploads/2022/01/2.jpg"
+                            id="av-masonry-1-item-1139" data-av-masonry-item="1139"
+                            class="av-masonry-entry isotope-item post-1139 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="2" itemprop="thumbnailUrl" style="position: absolute; left: 79.5822%; top: 0px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/01/2-705x705.jpg);"
+                                        title="2"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a href="https://tym-events.com/wp-content/uploads/2022/01/3.jpg"
+                            id="av-masonry-1-item-1140" data-av-masonry-item="1140"
+                            class="av-masonry-entry isotope-item post-1140 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="3" itemprop="thumbnailUrl" style="position: absolute; left: 0%; top: 200px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/01/3-705x705.jpg);"
+                                        title="3"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a href="https://tym-events.com/wp-content/uploads/2022/01/4.jpg"
+                            id="av-masonry-1-item-1141" data-av-masonry-item="1141"
+                            class="av-masonry-entry isotope-item post-1141 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="4" itemprop="thumbnailUrl" style="position: absolute; left: 19.8212%; top: 200px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/01/4-705x705.jpg);"
+                                        title="4"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a href="https://tym-events.com/wp-content/uploads/2022/01/8.jpg"
+                            id="av-masonry-1-item-1145" data-av-masonry-item="1145"
+                            class="av-masonry-entry isotope-item post-1145 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="8" itemprop="thumbnailUrl" style="position: absolute; left: 39.7415%; top: 200px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/01/8-705x705.jpg);"
+                                        title="8"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a href="https://tym-events.com/wp-content/uploads/2022/01/5.jpg"
+                            id="av-masonry-1-item-1142" data-av-masonry-item="1142"
+                            class="av-masonry-entry isotope-item post-1142 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="5" itemprop="thumbnailUrl" style="position: absolute; left: 59.6619%; top: 200px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/01/5-705x705.jpg);"
+                                        title="5"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry--><a href="https://tym-events.com/wp-content/uploads/2022/01/9.jpg"
+                            id="av-masonry-1-item-1146" data-av-masonry-item="1146"
+                            class="av-masonry-entry isotope-item post-1146 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
+                            title="9" itemprop="thumbnailUrl" style="position: absolute; left: 79.5822%; top: 200px;">
+                            <div class="av-inner-masonry-sizer"></div>
+                            <figure class="av-inner-masonry main_color">
+                                <div class="av-masonry-outerimage-container">
+                                    <div class="av-masonry-image-container"
+                                        style="background-image: url(https://tym-events.com/wp-content/uploads/2022/01/9-705x705.jpg);"
+                                        title="9"></div>
+                                </div>
+                            </figure>
+                        </a><!--end av-masonry entry-->
+                    </div>
+                </div>
+            </div><!-- close section -->
+            <div id="temoignages"
+                class="avia-section main_color avia-section-large avia-no-shadow  avia-bg-style-scroll  avia-builder-el-39  el_after_av_masonry_gallery  el_before_av_section   container_wrap fullsize"
+                style=" ">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div class="flex_column av_one_full  flex_column_div av-zero-column-padding first  avia-builder-el-40  el_before_av_hr  avia-builder-el-first  "
+                                    style="border-radius:0px; ">
+                                    <div style="padding-bottom:0px; margin:80px 0 0 0; font-size:100px;"
+                                        class="av-special-heading av-special-heading-h3  blockquote modern-quote modern-centered  avia-builder-el-41  el_before_av_textblock  avia-builder-el-first  av-inherit-size ">
+                                        <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-50"
+                                            itemprop="headline">TÉMOIGNAGES</h3>
+                                        <div class="special-heading-border">
+                                            <div class="special-heading-inner-border"></div>
+                                        </div>
+                                    </div>
+                                    <section class="av_textblock_section " itemscope="itemscope"
+                                        itemtype="https://schema.org/CreativeWork">
+                                        <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-15"
+                                            style="font-size:23px; color:#4a4a4a; " itemprop="text">
+                                            <p style="text-align: center;">C’EST VOUS QUI EN PARLEZ LE MIEUX</p>
+                                        </div>
+                                    </section>
+                                </div>
+                                <div style=" margin-top:20px; margin-bottom:90px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-43  el_after_av_one_full  el_before_av_one_full ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:40px; border-color:#777777;"><span
+                                            class="hr-inner-style"></span></span></div>
+                                <div class="flex_column av_one_full  flex_column_div av-zero-column-padding first  avia-builder-el-44  el_after_av_hr  avia-builder-el-last  "
+                                    style="border-radius:0px; ">
+                                    <div data-autoplay="1" data-interval="5" data-animation="fade" data-hoverpause="1"
+                                        class="avia-testimonial-wrapper avia-slider-testimonials avia-slider-2-testimonials avia_animate_when_almost_visible av-large-testimonial-slider">
+                                        <section class="avia-testimonial-row"
+                                            style="padding: 0px; height: 181px; transition: 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53); transform: translateZ(0px);">
+                                            <div class="avia-testimonial av_one_half flex_column no_margin avia-testimonial-row-1 avia-first-testimonial active-slide"
+                                                style="visibility: visible; opacity: 0; transition: none; transform: translateZ(0px); z-index: 3;">
+                                                <div class="avia-testimonial_inner" itemscope="itemscope"
+                                                    itemtype="https://schema.org/CreativeWork">
+                                                    <div class="avia-testimonial-content av_inherit_color"
+                                                        style="color:#777777; ">
+                                                        <div class="avia-testimonial-markup-entry-content"
+                                                            itemprop="text">
+                                                            <p>Nous avons été conquis par le professionnalisme de cette
+                                                                nouvelle agence. Un plaisir d’avoir eu une réelle écoute
+                                                                sur nos projet de campagne avec Tym-Events. Nous
+                                                                recommencerons&nbsp;!!</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="avia-testimonial-meta">
+                                                        <div class="avia-testimonial-arrow-wrap">
+                                                            <div class="avia-arrow"></div>
+                                                        </div>
+                                                        <div class="avia-testimonial-image" itemprop="image"
+                                                            style="background-image:url(https://tym-events.com/wp-content/uploads/2022/02/14-180x180.jpg);">
+                                                        </div>
+                                                        <div class="avia-testimonial-meta-mini" itemprop="author"
+                                                            itemscope="itemscope" itemtype="https://schema.org/Person">
+                                                            <strong class="avia-testimonial-name"
+                                                                style="color:#777777; " itemprop="name">Trankiiil mon
+                                                                code</strong><span
+                                                                class="avia-testimonial-subtitle av_opacity_variation"
+                                                                style="color:#777777; " itemprop="jobTitle">code en
+                                                                ligne</span></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="avia-testimonial av_one_half flex_column no_margin avia-testimonial-row-1"
+                                                style="visibility: visible; z-index: 3; opacity: 1; transition: 0.9s linear; transform: translateZ(0px);">
+                                                <div class="avia-testimonial_inner" itemscope="itemscope"
+                                                    itemtype="https://schema.org/CreativeWork">
+                                                    <div class="avia-testimonial-content av_inherit_color"
+                                                        style="color:#777777; ">
+                                                        <div class="avia-testimonial-markup-entry-content"
+                                                            itemprop="text">
+                                                            <p>J’ai décidé de rejoindre l’agence Tym-Events car il m’on
+                                                                donné leur confiance. Une nouvelle expérience pour moi,
+                                                                le meilleur reste à venir&nbsp;!!</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="avia-testimonial-meta">
+                                                        <div class="avia-testimonial-arrow-wrap">
+                                                            <div class="avia-arrow"></div>
+                                                        </div>
+                                                        <div class="avia-testimonial-image" itemprop="image"
+                                                            style="background-image:url(https://tym-events.com/wp-content/uploads/2022/02/INFLUENCEUR-WEB-180x180.png);">
+                                                        </div>
+                                                        <div class="avia-testimonial-meta-mini" itemprop="author"
+                                                            itemscope="itemscope" itemtype="https://schema.org/Person">
+                                                            <strong class="avia-testimonial-name"
+                                                                style="color:#777777; " itemprop="name">Florian</strong>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <div class="avia-slideshow-arrows avia-slideshow-controls"
+                                            style="color:#777777; "><a href="#prev" class="prev-slide"
+                                                aria-hidden="true" data-av_icon=""
+                                                data-av_iconfont="entypo-fontello">Previous</a><a href="#next"
+                                                class="next-slide" aria-hidden="true" data-av_icon=""
+                                                data-av_iconfont="entypo-fontello">Next</a></div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+            </div>
+            <div id="prestations"
+                class="avia-section main_color avia-section-no-padding avia-no-border-styling  avia-full-stretch avia-bg-style-scroll  avia-builder-el-46  el_after_av_section  el_before_av_section   container_wrap fullsize"
+                style="background-color: #30d1fc;background-repeat: no-repeat; background-image: url(https://tym-events.com/wp-content/uploads/2022/01/hero-pattern.png), linear-gradient(#30d1fc,#f32dd0);background-attachment: scroll; background-position: top center;  "
+                data-section-bg-repeat="stretch">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div style="padding-bottom:0px; margin:80px 0 0 0; color:#ffffff;font-size:100px;"
+                                    class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-47  el_before_av_hr  avia-builder-el-first  av-inherit-size ">
+                                    <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-60"
+                                        itemprop="headline">NOS SERVICES</h3>
+                                    <div class="special-heading-border">
+                                        <div class="special-heading-inner-border" style="border-color:#ffffff"></div>
+                                    </div>
+                                </div>
+                                <div style=" margin-top:20px; margin-bottom:90px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-48  el_after_av_heading  el_before_av_one_third ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:50px; border-color:#ffffff;"><span
+                                            class="hr-inner-style"></span></span></div>
+                                <div class="flex_column_table av-equal-height-column-flextable -flextable"
+                                    style="margin-top:0px; margin-bottom:-160px; ">
+                                    <div class="flex_column av_one_third  av-animated-generic pop-up  no_margin flex_column_table_cell av-equal-height-column av-align-middle first  avia-builder-el-49  el_after_av_hr  el_before_av_one_third  "
+                                        style="background: #ffffff; border-width:4px; border-color:#f20acb; border-style:solid; box-shadow: 0 0 5px 0 rgba(0,0,0,0.18); padding:40px; background-color:#ffffff; border-radius:30px; ">
+                                        <div class="avia-image-container avia_animated_image avia_animate_when_almost_visible pop-up av-styling- av-hover-grow   avia-builder-el-50  el_before_av_heading  avia-builder-el-first  avia-align-center "
+                                            itemprop="image" itemscope="itemscope"
+                                            itemtype="https://schema.org/ImageObject">
+                                            <div class="avia-image-container-inner">
+                                                <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                        src="https://tym-events.com/wp-content/uploads/2022/02/CIBLE.png"
+                                                        alt="" title="CIBLE" height="700" width="800"
+                                                        itemprop="thumbnailUrl"></div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:20px; margin:2.4em 0 0.5em 0; color:#4a4a4a;font-size:45px;"
+                                            class="av-special-heading av-special-heading-h4 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-51  el_after_av_image  el_before_av_textblock  av-inherit-size ">
+                                            <h4 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-40"
+                                                itemprop="headline">STRATÉGIE</h4>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#4a4a4a">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section class="av_textblock_section " itemscope="itemscope"
+                                            itemtype="https://schema.org/CreativeWork">
+                                            <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-20"
+                                                style="font-size:14px; color:#4a4a4a; " itemprop="text">
+                                                <p style="text-align: center;"><span style="font-weight: 400;">Après
+                                                        création et analyse de votre compte, une stratégie unique et
+                                                        créative est mise en place</span></p>
+                                            </div>
+                                        </section>
+                                        <div style="height:50px"
+                                            class="hr hr-invisible   avia-builder-el-53  el_after_av_textblock  avia-builder-el-last ">
+                                            <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                    </div>
+                                    <div class="flex_column av_one_third  avia-full-stretch no_margin flex_column_table_cell av-equal-height-column av-align-middle   avia-builder-el-54  el_after_av_one_third  el_before_av_one_third  "
+                                        style="background-color:#0accfc; background:url(https://tym-events.com/wp-content/uploads/2022/01/hero-pattern.png) top left no-repeat , linear-gradient(to bottom right,#0accfc,#f20acb); border-width:4px; border-color:#ffffff; border-style:solid; box-shadow: 0 0 10px 0 rgba(0,0,0,0.18); -webkit-transform: scale(1.1); -ms-transform: scale(1.1); transform: scale(1.1); z-index: 4;padding:40px; border-radius:30px; ">
+                                        <div class="avia-image-container avia_animated_image avia_animate_when_almost_visible pop-up av-styling- av-hover-grow   avia-builder-el-55  el_before_av_heading  avia-builder-el-first  avia-align-center "
+                                            itemprop="image" itemscope="itemscope"
+                                            itemtype="https://schema.org/ImageObject">
+                                            <div class="avia-image-container-inner">
+                                                <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                        src="https://tym-events.com/wp-content/uploads/2022/02/COMMUNICATION.png"
+                                                        alt="" title="COMMUNICATION" height="700" width="800"
+                                                        itemprop="thumbnailUrl"></div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:20px; margin:2.4em 0 0.5em 0; color:#ffffff;font-size:45px;"
+                                            class="av-special-heading av-special-heading-h4 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-56  el_after_av_image  el_before_av_textblock  av-inherit-size ">
+                                            <h4 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-40"
+                                                itemprop="headline">COMMUNICATION</h4>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#ffffff">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section class="av_textblock_section " itemscope="itemscope"
+                                            itemtype="https://schema.org/CreativeWork">
+                                            <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-20"
+                                                style="font-size:14px; color:#ffffff; " itemprop="text">
+                                                <p style="text-align: center;"><span style="font-weight: 400;">Chaque
+                                                        support de communication est ciblé pour gagner en visibilité et
+                                                        augmenter votre notoriété sur les réseaux</span></p>
+                                            </div>
+                                        </section>
+                                        <div style="height:50px"
+                                            class="hr hr-invisible   avia-builder-el-58  el_after_av_textblock  avia-builder-el-last ">
+                                            <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                    </div>
+                                    <div class="flex_column av_one_third  av-animated-generic pop-up  no_margin flex_column_table_cell av-equal-height-column av-align-middle   avia-builder-el-59  el_after_av_one_third  el_before_av_hr  "
+                                        style="background: #ffffff; border-width:4px; border-color:#0accfc; border-style:solid; box-shadow: 0 0 5px 0 rgba(0,0,0,0.18); padding:40px; background-color:#ffffff; border-radius:30px; ">
+                                        <div class="avia-image-container avia_animated_image avia_animate_when_almost_visible pop-up av-styling- av-hover-grow   avia-builder-el-60  el_before_av_heading  avia-builder-el-first  avia-align-center "
+                                            itemprop="image" itemscope="itemscope"
+                                            itemtype="https://schema.org/ImageObject">
+                                            <div class="avia-image-container-inner">
+                                                <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                        src="https://tym-events.com/wp-content/uploads/2022/02/LOGO-DIAMS-MULTI-COLOR.png"
+                                                        alt="" title="LOGO DIAMS MULTI COLOR" height="700" width="800"
+                                                        itemprop="thumbnailUrl"></div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:20px; margin:2.4em 0 0.5em 0; color:#4a4a4a;font-size:40px;"
+                                            class="av-special-heading av-special-heading-h4 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-61  el_after_av_image  el_before_av_textblock  av-inherit-size ">
+                                            <h4 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-40"
+                                                itemprop="headline">COLLABORATION</h4>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#4a4a4a">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section class="av_textblock_section " itemscope="itemscope"
+                                            itemtype="https://schema.org/CreativeWork">
+                                            <div class="avia_textblock  av_inherit_color  av-mini-font-size-overwrite av-mini-font-size-20"
+                                                style="font-size:14px; color:#4a4a4a; " itemprop="text">
+                                                <p style="text-align: center;"><span style="font-weight: 400;">Nous
+                                                        traitons toutes les demandes de collaborations afin de s’en
+                                                        assurer de la qualité pour renforcer votre image de marque et
+                                                        devenir un futur ambassadeur ou égérie</span></p>
+                                            </div>
+                                        </section>
+                                        <div style="height:50px"
+                                            class="hr hr-invisible   avia-builder-el-63  el_after_av_textblock  avia-builder-el-last ">
+                                            <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                    </div>
+                                </div><!--close column table wrapper. Autoclose: 1 -->
+                                <div style=" margin-top:20px; margin-bottom:90px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-64  el_after_av_one_third  avia-builder-el-last ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:40px; border-color:#45c0d6;"><span
+                                            class="hr-inner-style"></span></span></div>
+
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+            </div>
+            <div id="partenaires"
+                class="avia-section main_color avia-section-no-padding avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-65  el_after_av_section  el_before_av_section   container_wrap fullsize"
+                style=" ">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div style="padding-bottom:0px; margin:80px 0 0 0; font-size:100px;"
+                                    class="av-special-heading av-special-heading-h3  blockquote modern-quote modern-centered  avia-builder-el-66  el_before_av_textblock  avia-builder-el-first  av-inherit-size ">
+                                    <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-60"
+                                        itemprop="headline">NOS PARTENAIRES</h3>
+                                    <div class="special-heading-border">
+                                        <div class="special-heading-inner-border"></div>
+                                    </div>
+                                </div>
+                                <section class="av_textblock_section " itemscope="itemscope"
+                                    itemtype="https://schema.org/CreativeWork">
+                                    <div class="avia_textblock  av_inherit_color "
+                                        style="font-size:23px; color:#4a4a4a; " itemprop="text">
+                                        <p style="text-align: center;">ILS NOUS FONT CONFIANCE</p>
+                                    </div>
+                                </section>
+                                <div style=" margin-top:20px; margin-bottom:0px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-68  el_after_av_textblock  el_before_av_one_fifth ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:40px; border-color:#777777;"><span
+                                            class="hr-inner-style"></span></span></div>
+                                <div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-69  el_after_av_hr  el_before_av_one_fifth  "
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-70  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/02/14.jpg"
+                                                    alt="" title="14" height="1000" width="1000"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-71  el_after_av_one_fifth  el_before_av_one_fifth  "
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-72  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/02/13.jpg"
+                                                    alt="" title="13" height="1000" width="1000"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-73  el_after_av_one_fifth  el_before_av_one_fifth  "
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-74  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/02/12.jpg"
+                                                    alt="" title="12" height="1000" width="1000"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-75  el_after_av_one_fifth  el_before_av_one_fifth  "
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-76  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/02/15.png"
+                                                    alt="" title="15" height="1000" width="1000"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-77  el_after_av_one_fifth  el_before_av_hr  "
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-78  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/02/16.png"
+                                                    alt="" title="16" height="1000" width="1000"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="height:50px"
+                                    class="hr hr-invisible   avia-builder-el-79  el_after_av_one_fifth  avia-builder-el-last ">
+                                    <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+            </div>
+            <div id="academy"
+                class="avia-section header_color avia-section-no-padding avia-no-border-styling  avia-full-stretch avia-bg-style-scroll  avia-builder-el-80  el_after_av_section  el_before_av_section   av-minimum-height av-minimum-height-75  container_wrap fullsize"
+                style="background-color: #7bb0e7; background-repeat: no-repeat; background-image: url(https://tym-events.com/wp-content/uploads/2018/10/hero-pattern.png), linear-gradient(to bottom right,#30d1fc,#f32dd0);background-attachment: scroll; background-position: center center;  "
+                data-section-bg-repeat="stretch" data-av_minimum_height_pc="75">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div style="padding-bottom:0px; margin:80px 0 0 0; color:#ffffff;font-size:100px;"
+                                    class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-81  el_before_av_hr  avia-builder-el-first  av-inherit-size ">
+                                    <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-60"
+                                        itemprop="headline">VOUS SOUHAITEZ DEVENIR INFLUENCEUR ?</h3>
+                                    <div class="special-heading-border">
+                                        <div class="special-heading-inner-border" style="border-color:#ffffff"></div>
+                                    </div>
+                                </div>
+                                <div style=" margin-top:20px; margin-bottom:0px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-82  el_after_av_heading  el_before_av_three_fifth ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:40px; border-color:#ffffff;"><span
+                                            class="hr-inner-style"></span></span></div>
+                                <div class="flex_column av_three_fifth  av-animated-generic pop-up  flex_column_div av-zero-column-padding first  avia-builder-el-83  el_after_av_hr  el_before_av_two_fifth  "
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling-    avia-builder-el-84  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/01/ICON-WEB-TYM-EVENT-2-1.png"
+                                                    alt="" title="ICON WEB TYM EVENT (2)" height="1000" width="1000"
+                                                    itemprop="thumbnailUrl"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_two_fifth  av-animated-generic pop-up  flex_column_div   avia-builder-el-85  el_after_av_three_fifth  avia-builder-el-last  "
+                                    style="padding:50px 0px 80px 0px ; border-radius:0px; ">
+                                    <div style="height:50px"
+                                        class="hr hr-invisible  av-medium-hide av-small-hide av-mini-hide  avia-builder-el-86  el_before_av_heading  avia-builder-el-first ">
+                                        <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                    <div style="padding-bottom:20px; margin:0 0 0 0; color:#ffffff;font-size:53px;"
+                                        class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote  avia-builder-el-87  el_after_av_hr  el_before_av_textblock  av-inherit-size ">
+                                        <h3 class="av-special-heading-tag " itemprop="headline">INFLUENCE ACADEMY</h3>
+                                        <div class="special-heading-border">
+                                            <div class="special-heading-inner-border" style="border-color:#ffffff">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <section class="av_textblock_section " itemscope="itemscope"
+                                        itemtype="https://schema.org/CreativeWork">
+                                        <div class="avia_textblock  av_inherit_color "
+                                            style="font-size:23px; color:#ffffff; " itemprop="text">
+                                            <p><span style="font-weight: 400;">Avec l’Academy Tym- Events, l’opportunité
+                                                    d’intégrer le monde de l’influence vous est ouvert. Vous souhaitez
+                                                    vous lancer mais vous craignez de manquer de stratégie&nbsp;?
+                                                    l’Academy vous accompagne sur toute la mise en place et l’analyse
+                                                    complète du développement de votre notoriété.</span></p>
+                                        </div>
+                                    </section>
+                                    <div
+                                        class="avia-button-wrap avia-button-center  avia-builder-el-89  el_after_av_textblock  avia-builder-el-last ">
+                                        <a href="#contact"
+                                            class="avia-button   avia-icon_select-no avia-color-light avia-size-large avia-position-center "><span
+                                                class="avia_iconbox_title">CONTACT</span></a></div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+            </div>
+            <div id="contact"
+                class="avia-section main_color avia-section-no-padding avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-90  el_after_av_section  el_before_av_layout_row   container_wrap fullsize"
+                style=" ">
+                <div class="container">
+                    <div class="template-page content  av-content-full alpha units">
+                        <div class="post-entry post-entry-type-page post-entry-241">
+                            <div class="entry-content-wrapper clearfix">
+                                <div style="height:50px"
+                                    class="hr hr-invisible   avia-builder-el-91  el_before_av_heading  avia-builder-el-first ">
+                                    <span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                                <div style="padding-bottom:0px; margin:80px 0 0 0; font-size:100px;"
+                                    class="av-special-heading av-special-heading-h3  blockquote modern-quote modern-centered  avia-builder-el-92  el_after_av_hr  el_before_av_textblock  av-inherit-size ">
+                                    <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-60"
+                                        itemprop="headline">CONTACT</h3>
+                                    <div class="special-heading-border">
+                                        <div class="special-heading-inner-border"></div>
+                                    </div>
+                                </div>
+                                <section class="av_textblock_section " itemscope="itemscope"
+                                    itemtype="https://schema.org/CreativeWork">
+                                    <div class="avia_textblock  av_inherit_color "
+                                        style="font-size:23px; color:#4a4a4a; " itemprop="text">
+                                        <p style="text-align: center;">PARLONS DE VOS PROJETS</p>
+                                    </div>
+                                </section>
+                                <div style=" margin-top:20px; margin-bottom:0px;"
+                                    class="hr hr-custom hr-center hr-icon-no   avia-builder-el-94  el_after_av_textblock  el_before_av_one_half ">
+                                    <span class="hr-inner  inner-border-av-border-thin"
+                                        style=" width:40px; border-color:#777777;"><span
+                                            class="hr-inner-style"></span></span></div>
+                                <div class="flex_column_table av-equal-height-column-flextable -flextable">
+                                    <div class="flex_column av_one_half  avia-full-contain no_margin flex_column_table_cell av-equal-height-column av-align-middle first  avia-builder-el-95  el_after_av_hr  el_before_av_one_half  "
+                                        style="padding:20px; border-radius:0px; ">
+                                        <div style="padding-bottom:10px; color:#f20acb;font-size:80px;"
+                                            class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-96  el_before_av_heading  avia-builder-el-first  av-inherit-size ">
+                                            <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-55"
+                                                itemprop="headline">TÉLÉPHONE</h3>
+                                            <div class="av-subheading av-subheading_below av_custom_color "
+                                                style="font-size:25px;">
+                                                <p>09.77.97.33.60</p>
+                                            </div>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#f20acb">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:10px; color:#7c6be5;font-size:80px;"
+                                            class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-97  el_after_av_heading  el_before_av_heading  av-inherit-size ">
+                                            <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-55"
+                                                itemprop="headline">E-MAIL</h3>
+                                            <div class="av-subheading av-subheading_below av_custom_color "
+                                                style="font-size:25px;">
+                                                <p>contact@tym-events.com</p>
+                                            </div>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#7c6be5">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div style="padding-bottom:10px; color:#0accfc;font-size:80px;"
+                                            class="av-special-heading av-special-heading-h3 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-98  el_after_av_heading  avia-builder-el-last  av-inherit-size ">
+                                            <h3 class="av-special-heading-tag  av-mini-font-size-overwrite av-mini-font-size-55"
+                                                itemprop="headline">ADRESSE</h3>
+                                            <div class="av-subheading av-subheading_below av_custom_color "
+                                                style="font-size:25px;">
+                                                <p>37 rue Vauban, Antibes 06600</p>
+                                            </div>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border" style="border-color:#0accfc">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="flex_column av_one_half  no_margin flex_column_table_cell av-equal-height-column av-align-middle av-zero-column-padding   avia-builder-el-99  el_after_av_one_half  el_before_av_one_fourth  "
+                                        style="border-radius:0px; ">
+                                        <div style="padding-bottom:10px; margin:0 0 0 0; font-size:30px;"
+                                            class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-100  el_before_av_contact  avia-builder-el-first  av-inherit-size ">
+                                            <h3 class="av-special-heading-tag " itemprop="headline">Formulaire de
+                                                contact</h3>
+                                            <div class="special-heading-border">
+                                                <div class="special-heading-inner-border"></div>
+                                            </div>
+                                        </div>
+                                        <form action="https://tym-events.com/" method="post"
+                                            class="avia_ajax_form av-form-labels-hidden   avia-builder-el-101  el_after_av_heading  avia-builder-el-last   "
+                                            data-avia-form-id="1" data-avia-redirect="">
+                                            <fieldset>
+                                                <p class=" first_form  form_element form_fullwidth"
+                                                    id="element_avia_1_1"><label for="avia_1_1"> <abbr class="required"
+                                                            title="required">*</abbr></label> <select name="avia_1_1"
+                                                        class="select is_empty" id="avia_1_1">
+                                                        <option value="">*</option>
+                                                        <option value="DEMANDE DE PARTENARIAT">DEMANDE DE PARTENARIAT
+                                                        </option>
+                                                        <option value="REJOINDRE L’ACADEMY">REJOINDRE L’ACADEMY</option>
+                                                        <option value="REJOINDRE NOS AMBASSADEURS">REJOINDRE NOS
+                                                            AMBASSADEURS</option>
+                                                    </select></p>
+                                                <p class="  first_form  form_element form_fullwidth"
+                                                    id="element_avia_2_1"><label for="avia_2_1">NOM <abbr
+                                                            class="required" title="required">*</abbr></label> <input
+                                                        name="avia_2_1" class="text_input is_empty" type="text"
+                                                        id="avia_2_1" value="" placeholder="NOM*"></p>
+                                                <p class="  first_form  form_element form_fullwidth"
+                                                    id="element_avia_3_1"><label for="avia_3_1">E-MAIL <abbr
+                                                            class="required" title="required">*</abbr></label> <input
+                                                        name="avia_3_1" class="text_input is_email" type="text"
+                                                        id="avia_3_1" value="" placeholder="E-MAIL*"></p>
+                                                <p class="  first_form  form_element form_fullwidth"
+                                                    id="element_avia_4_1"><label for="avia_4_1"
+                                                        class="textare_label hidden textare_label_avia_4_1">MESSAGE
+                                                        <abbr class="required"
+                                                            title="required">*</abbr></label><textarea
+                                                        placeholder="MESSAGE*" name="avia_4_1"
+                                                        class="text_area is_empty" cols="40" rows="7"
+                                                        id="avia_4_1"></textarea></p>
+                                                <p class="hidden"><input type="text" name="avia_5_1" class="hidden "
+                                                        id="avia_5_1" value=""></p>
+                                                <p class="   form_element form_fullwidth" id="element_avia_6_1"><span
+                                                        class="value_verifier_label">3 + 3 = ?</span><input
+                                                        name="avia_6_1_verifier" type="hidden" id="avia_6_1_verifier"
+                                                        value="484662754"><label for="avia_6_1">Please prove that you
+                                                        are human by solving the equation <abbr class="required"
+                                                            title="required">*</abbr></label><input name="avia_6_1"
+                                                        class="text_input captcha" type="text" id="avia_6_1" value="">
+                                                </p>
+                                                <p class="form_element "><input type="hidden" value="1"
+                                                        name="avia_generated_form1"><input type="submit" value="ENVOYER"
+                                                        class="button" data-sending-label="Sending"></p>
+                                            </fieldset>
+                                        </form>
+                                        <div id="ajaxresponse_1" class="ajaxresponse ajaxresponse_1 hidden"></div>
+                                    </div>
+                                </div><!--close column table wrapper. Autoclose: 1 -->
+                                <div class="flex_column av_one_fourth  flex_column_div av-zero-column-padding first  avia-builder-el-102  el_after_av_one_half  el_before_av_one_fourth  column-top-margin"
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling- av-hover-grow av-hide-overflow   avia-builder-el-103  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><a
+                                                    href="https://www.instagram.com/agencetymevents/" class="avia_image"
+                                                    target="_blank" rel="noopener"><img class="avia_image "
+                                                        src="https://tym-events.com/wp-content/uploads/2022/01/6-300x300.png"
+                                                        alt="" title="6" itemprop="thumbnailUrl"><span
+                                                        class="image-overlay overlay-type-extern"><span
+                                                            class="image-overlay-inside"></span></span></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_one_fourth  flex_column_div av-zero-column-padding   avia-builder-el-104  el_after_av_one_fourth  el_before_av_one_fourth  column-top-margin"
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling- av-hover-grow av-hide-overflow   avia-builder-el-105  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/01/8-300x300.png"
+                                                    alt="" title="8" height="300" width="300" itemprop="thumbnailUrl">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_one_fourth  flex_column_div av-zero-column-padding   avia-builder-el-106  el_after_av_one_fourth  el_before_av_one_fourth  column-top-margin"
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling- av-hover-grow av-hide-overflow   avia-builder-el-107  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/01/9-300x300.png"
+                                                    alt="" title="9" height="300" width="300" itemprop="thumbnailUrl">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flex_column av_one_fourth  flex_column_div av-zero-column-padding   avia-builder-el-108  el_after_av_one_fourth  avia-builder-el-last  column-top-margin"
+                                    style="border-radius:0px; ">
+                                    <div class="avia-image-container  av-styling- av-hover-grow av-hide-overflow   avia-builder-el-109  avia-builder-el-no-sibling  avia-align-center "
+                                        itemprop="image" itemscope="itemscope"
+                                        itemtype="https://schema.org/ImageObject">
+                                        <div class="avia-image-container-inner">
+                                            <div class="avia-image-overlay-wrap"><img class="avia_image"
+                                                    src="https://tym-events.com/wp-content/uploads/2022/01/7-300x300.png"
+                                                    alt="" title="7" height="300" width="300" itemprop="thumbnailUrl">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- close content main div -->
+                </div>
+            </div>
+            <div id="av-layout-grid-1"
+                class="av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-110  el_after_av_section  avia-builder-el-last  submenu-not-first container_wrap fullsize"
+                style=" ">
+                <div class="flex_cell no_margin av_one_full  avia-builder-el-111  avia-builder-el-no-sibling   av-zero-padding "
+                    style="vertical-align:middle; padding:0px; ">
+                    <div class="flex_cell_inner">
+                        <section class="av_textblock_section " itemscope="itemscope"
+                            itemtype="https://schema.org/CreativeWork">
+                            <div class="avia_textblock  av_inherit_color " style="font-size:20px; color:#ffffff; "
+                                itemprop="text">
+                                <p><iframe
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890.1508492689154!2d7.120562915838811!3d43.5825741650121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cdd5ec06aa6ae5%3A0xed3f03e72a5b3e40!2sTym-Events!5e0!3m2!1sfr!2sfr!4v1642417487972!5m2!1sfr!2sfr"
+                                        width="1920" height="600" style="border:0;" allowfullscreen=""
+                                        loading="lazy"></iframe></p>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <p></p>
+            <div>
+                <div> </div><!--end builder template-->
+            </div><!-- close default .container_wrap element -->
+
+
+            <footer class="container_wrap socket_color" id="socket" role="contentinfo" itemscope="itemscope"
+                itemtype="https://schema.org/WPFooter">
+                <div class="container">
+
+                    <span class="copyright"><a href="https://misterfoodcom.fr"> Réalisé par Mister Foodcom </a> | tout
+                        droit réservé © |&nbsp;copyright 2022 - TYM EVENTS</span>
+
+                    <ul class="noLightbox social_bookmarks icon_count_1">
+                        <li class="social_bookmarks_instagram av-social-link-instagram social_icon_1"><a target="_blank"
+                                aria-label="Link to Instagram" href="https://www.instagram.com/agencetymevents/"
+                                aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
+                                title="Instagram" rel="noopener"><span
+                                    class="avia_hidden_link_text">Instagram</span></a></li>
+                    </ul>
+                </div>
+
+                <!-- ####### END SOCKET CONTAINER ####### -->
+            </footer>
+
+
+            <!-- end main -->

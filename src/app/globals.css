@@ -1,0 +1,14 @@
+/* Minimal reset — theme styles are loaded via layout.tsx external stylesheets */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
