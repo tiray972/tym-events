@@ -1,0 +1,44 @@
+--- sauva.html
++++ sauva.html
+@@ -107,6 +107,43 @@
+         }
+     </style>
+     <style></style>
++    <style id="av-animation-fix">
++      /* Forcer la visibilité des éléments pop-up Avia qui restent cachés sans initialisation JS */
++      .av-animated-generic.pop-up,
++      .avia_animated_image.pop-up {
++        opacity: 1 !important;
++        transform: none !important;
++        visibility: visible !important;
++      }
++    </style>
++    <script>
++      // Patch pour réparer les liens d'ancrage (Navbar) dont le défilement est cassé par le JS Enfold
++      document.addEventListener('DOMContentLoaded', () => {
++        // Timeout pour surcharger les événements Enfold une fois initialisés
++        setTimeout(() => {
++          document.querySelectorAll('a[href^="#"]').forEach(anchor => {
++            anchor.addEventListener('click', function (e) {
++              const targetId = this.getAttribute('href').substring(1);
++              if (!targetId || targetId === 'next-section' || targetId === 'top') return;
++              
++              const targetEl = document.getElementById(targetId);
++              if (targetEl) {
++                e.preventDefault();
++                e.stopImmediatePropagation();
++                e.stopPropagation();
++                
++                // Calculer l'offset pour la navbar fixe (environ 88px)
++                const targetPosition = targetEl.getBoundingClientRect().top + window.scrollY - 90;
++                window.scrollTo({
++                  top: targetPosition,
++                  behavior: 'smooth'
++                });
++              }
++            }, true); // Use capture phase to intercept before Enfold
++          });
++        }, 1000);
++      });
++    </script>
+ </head>
