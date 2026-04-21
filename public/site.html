@@ -3267,8 +3267,14 @@
             .av-hamburger-inner::before { top: -8px !important; }
             .av-hamburger-inner::after { bottom: -8px !important; }
             .av-hamburger-inner { top: 50% !important; transform: translateY(-50%) !important; }
-            /* Masquer les éléments perturbateurs */
-            .av-main-nav-wrap, #header_meta, .head-extra {
+            /* Masquer les éléments perturbateurs sans cacher le burger menu */
+            #header_meta, .head-extra {
+                display: none !important;
+            }
+            .av-main-nav-wrap {
+                display: block !important;
+            }
+            #avia-menu > li:not(.av-burger-menu-main) {
                 display: none !important;
             }
             #main {
