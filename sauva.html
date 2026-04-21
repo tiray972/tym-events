@@ -3111,12 +3111,9 @@
 
 
     <link rel="dns-prefetch" href="//s.w.org">
-    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY » Feed"
-        href="/feed/">
-    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY » Comments Feed"
-        href="/comments/feed/">
-    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY » Home Comments Feed"
-        href="/home/feed/">
+    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY » Feed" href="/feed/">
+    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY » Comments Feed" href="/comments/feed/">
+    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY » Home Comments Feed" href="/home/feed/">
 
     <!-- google webfont font replacement -->
 
@@ -3167,8 +3164,7 @@
         /*! This file is auto-generated */
         !function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode, e = (p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0), i.toDataURL()); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([129777, 127995, 8205, 129778, 127999], [129777, 127995, 8203, 129778, 127999]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji))) }(window, document, window._wpemojiSettings);
     </script>
-    <script src="/wp-includes/js/wp-emoji-release.min.js?ver=6.0" type="text/javascript"
-        defer=""></script>
+    <script src="/wp-includes/js/wp-emoji-release.min.js?ver=6.0" type="text/javascript" defer=""></script>
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -3201,7 +3197,10 @@
                 overflow: hidden !important;
                 background-color: #ffffff !important;
             }
-            #header_main, .av-logo-container, .av-logo-container .inner-container {
+
+            #header_main,
+            .av-logo-container,
+            .av-logo-container .inner-container {
                 height: 80px !important;
                 line-height: 80px !important;
                 max-height: 80px !important;
@@ -3211,7 +3210,9 @@
                 align-items: center !important;
                 justify-content: space-between !important;
             }
-            .logo {
+
+            .logo,
+            .logo a {
                 width: auto !important;
                 height: 50px !important;
                 order: 1 !important;
@@ -3220,11 +3221,13 @@
                 align-items: center !important;
                 padding-left: 15px !important;
             }
+
             .logo img {
                 max-height: 50px !important;
                 width: auto !important;
                 display: block !important;
             }
+
             .main_menu {
                 order: 2 !important;
                 position: static !important;
@@ -3232,6 +3235,7 @@
                 height: 80px !important;
                 margin: 0 !important;
             }
+
             .av-burger-menu-main {
                 display: flex !important;
                 align-items: center !important;
@@ -3239,12 +3243,14 @@
                 padding-right: 25px !important;
                 z-index: 100 !important;
             }
+
             .av-burger-menu-main a {
                 height: 80px !important;
                 line-height: 80px !important;
                 display: flex !important;
                 align-items: center !important;
             }
+
             /* Burger Icon Visibility Fix */
             .av-hamburger-box {
                 width: 30px !important;
@@ -3252,8 +3258,9 @@
                 display: block !important;
                 position: relative !important;
             }
-            .av-hamburger-inner, 
-            .av-hamburger-inner::before, 
+
+            .av-hamburger-inner,
+            .av-hamburger-inner::before,
             .av-hamburger-inner::after {
                 background-color: #0accfc !important;
                 width: 30px !important;
@@ -3264,19 +3271,34 @@
                 opacity: 1 !important;
                 visibility: visible !important;
             }
-            .av-hamburger-inner::before { top: -8px !important; }
-            .av-hamburger-inner::after { bottom: -8px !important; }
-            .av-hamburger-inner { top: 50% !important; transform: translateY(-50%) !important; }
+
+            .av-hamburger-inner::before {
+                top: -8px !important;
+            }
+
+            .av-hamburger-inner::after {
+                bottom: -8px !important;
+            }
+
+            .av-hamburger-inner {
+                top: 50% !important;
+                transform: translateY(-50%) !important;
+            }
+
             /* Masquer les éléments perturbateurs sans cacher le burger menu */
-            #header_meta, .head-extra {
+            #header_meta,
+            .head-extra {
                 display: none !important;
             }
+
             .av-main-nav-wrap {
                 display: block !important;
             }
-            #avia-menu > li:not(.av-burger-menu-main) {
+
+            #avia-menu>li:not(.av-burger-menu-main) {
                 display: none !important;
             }
+
             #main {
                 padding-top: 80px !important;
             }
@@ -3312,7 +3334,7 @@
                     anchor.addEventListener('click', function (e) {
                         const targetId = this.getAttribute('href').substring(1);
                         if (!targetId || targetId === 'next-section' || targetId === 'top') return;
-                        
+
                         const targetEl = document.getElementById(targetId);
                         if (targetEl) {
                             e.preventDefault();
@@ -3329,18 +3351,18 @@
             }, 1000);
         });
     </script>
-    <link rel="stylesheet" id="avia-grid-css"
-        href="/wp-content/themes/enfold/css/grid.css?ver=4.7.5" type="text/css" media="all">
-    <link rel="stylesheet" id="avia-base-css"
-        href="/wp-content/themes/enfold/css/base.css?ver=4.7.5" type="text/css" media="all">
-    <link rel="stylesheet" id="avia-layout-css"
-        href="/wp-content/themes/enfold/css/layout.css?ver=4.7.5" type="text/css" media="all">
+    <link rel="stylesheet" id="avia-grid-css" href="/wp-content/themes/enfold/css/grid.css?ver=4.7.5" type="text/css"
+        media="all">
+    <link rel="stylesheet" id="avia-base-css" href="/wp-content/themes/enfold/css/base.css?ver=4.7.5" type="text/css"
+        media="all">
+    <link rel="stylesheet" id="avia-layout-css" href="/wp-content/themes/enfold/css/layout.css?ver=4.7.5"
+        type="text/css" media="all">
     <link rel="stylesheet" id="avia-module-audioplayer-css"
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.css?ver=6.0"
         type="text/css" media="all">
     <link rel="stylesheet" id="avia-module-blog-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-module-postslider-css"
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=6.0"
         type="text/css" media="all">
@@ -3390,11 +3412,11 @@
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.css?ver=6.0"
         type="text/css" media="all">
     <link rel="stylesheet" id="avia-module-hr-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-module-icon-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-module-iconbox-css"
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=6.0"
         type="text/css" media="all">
@@ -3405,8 +3427,8 @@
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css?ver=6.0"
         type="text/css" media="all">
     <link rel="stylesheet" id="avia-module-image-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-module-hotspot-css"
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=6.0"
         type="text/css" media="all">
@@ -3417,11 +3439,10 @@
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=6.0"
         type="text/css" media="all">
     <link rel="stylesheet" id="avia-siteloader-css"
-        href="/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=6.0" type="text/css" media="all">
     <link rel="stylesheet" id="avia-module-menu-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-modfule-notification-css"
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=6.0"
         type="text/css" media="all">
@@ -3462,14 +3483,14 @@
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=6.0"
         type="text/css" media="all">
     <link rel="stylesheet" id="avia-module-table-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-module-tabs-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-module-team-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=6.0"
-        type="text/css" media="all">
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=6.0" type="text/css"
+        media="all">
     <link rel="stylesheet" id="avia-module-testimonials-css"
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=6.0"
         type="text/css" media="all">
@@ -3480,11 +3501,10 @@
         href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=6.0"
         type="text/css" media="all">
     <link rel="stylesheet" id="avia-module-video-css"
-        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=6.0"
-        type="text/css" media="all">
-    <link rel="stylesheet" id="wp-block-library-css"
-        href="/wp-includes/css/dist/block-library/style.min.css?ver=6.0" type="text/css"
+        href="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=6.0" type="text/css"
         media="all">
+    <link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.0"
+        type="text/css" media="all">
     <style id="global-styles-inline-css" type="text/css">
         body {
             --wp--preset--color--black: #000000;
@@ -3733,24 +3753,19 @@
             font-size: var(--wp--preset--font-size--x-large) !important;
         }
     </style>
-    <link rel="stylesheet" id="avia-scs-css"
-        href="/wp-content/themes/enfold/css/shortcodes.css?ver=4.7.5" type="text/css" media="all">
+    <link rel="stylesheet" id="avia-scs-css" href="/wp-content/themes/enfold/css/shortcodes.css?ver=4.7.5"
+        type="text/css" media="all">
     <link rel="stylesheet" id="avia-popup-css-css"
-        href="/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.7.5" type="text/css"
-        media="screen">
+        href="/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.7.5" type="text/css" media="screen">
     <link rel="stylesheet" id="avia-lightbox-css"
-        href="/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.7.5" type="text/css"
-        media="screen">
+        href="/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.7.5" type="text/css" media="screen">
     <link rel="stylesheet" id="avia-widget-css-css"
-        href="/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.7.5" type="text/css"
-        media="screen">
-    <link rel="stylesheet" id="avia-dynamic-css"
-        href="/wp-content/uploads/dynamic_avia/enfold.css?ver=61f063864d6b7" type="text/css"
-        media="all">
-    <link rel="stylesheet" id="avia-custom-css"
-        href="/wp-content/themes/enfold/css/custom.css?ver=4.7.5" type="text/css" media="all">
-    <script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.0"
-        id="jquery-core-js"></script>
+        href="/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.7.5" type="text/css" media="screen">
+    <link rel="stylesheet" id="avia-dynamic-css" href="/wp-content/uploads/dynamic_avia/enfold.css?ver=61f063864d6b7"
+        type="text/css" media="all">
+    <link rel="stylesheet" id="avia-custom-css" href="/wp-content/themes/enfold/css/custom.css?ver=4.7.5"
+        type="text/css" media="all">
+    <script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
     <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2"
         id="jquery-migrate-js"></script>
     <script type="text/javascript" src="/wp-content/themes/enfold/js/avia-compat.js?ver=4.7.5"
@@ -3758,8 +3773,7 @@
     <link rel="https://api.w.org/" href="/wp-json/">
     <link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/241">
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-        href="/wp-includes/wlwmanifest.xml">
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
     <meta name="generator" content="WordPress 6.0">
     <link rel="shortlink" href="/">
     <link rel="alternate" type="application/json+oembed"
@@ -3767,8 +3781,7 @@
     <link rel="alternate" type="text/xml+oembed"
         href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftym-events.com%2F&amp;format=xml">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY RSS2 Feed"
-        href="/feed/">
+    <link rel="alternate" type="application/rss+xml" title="TYM EVENTS AGENCY RSS2 Feed" href="/feed/">
     <link rel="pingback" href="/xmlrpc.php">
     <!--[if lt IE 9]><script src="/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
     <link rel="icon" href="/images/LOGO-TYM-EVENTS-REFLET-300x300.png" type="image/png">
@@ -4014,9 +4027,9 @@ PLAu:1
             <div id="header_main" class="container_wrap container_wrap_logo">
 
                 <div class="container av-logo-container">
-                    <div class="inner-container"><span class="logo"><a href="/"><img height="100"
-                                    width="300" src="/images/LOGO-MENU-TYM-EVENT-COLOR-300x100.png"
-                                    alt="TYM EVENTS AGENCY" title=""></a></span>
+                    <div class="inner-container"><span class="logo"><a href="/"><img height="100" width="300"
+                                    src="/images/LOGO-MENU-TYM-EVENT-COLOR-300x100.png" alt="TYM EVENTS AGENCY"
+                                    title=""></a></span>
                         <nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope"
                             itemtype="https://schema.org/SiteNavigationElement">
                             <div class="avia-menu av-main-nav-wrap av_menu_icon_beside">
@@ -4534,7 +4547,7 @@ PLAu:1
                     style="background-color:#f7f7f7; ">
                     <div class="av-masonry-container isotope av-js-disabled ">
                         <div class="av-masonry-entry isotope-item av-masonry-item-no-image "></div><a
-                            href="/images/1.jpg" id="av-masonry-1-item-1138" data-av-masonry-item="1138"
+                            href="/images/1.png" id="av-masonry-1-item-1138" data-av-masonry-item="1138"
                             class="av-masonry-entry isotope-item post-1138 attachment type-attachment status-inherit hentry av-masonry-item-with-image lightbox-added"
                             title="1" itemprop="thumbnailUrl">
                             <div class="av-inner-masonry-sizer"></div>
@@ -5363,8 +5376,7 @@ PLAu:1
             }
         }
     </style>
-    <script type="text/javascript" src="/wp-content/themes/enfold/js/avia.js?ver=4.7.5"
-        id="avia-default-js"></script>
+    <script type="text/javascript" src="/wp-content/themes/enfold/js/avia.js?ver=4.7.5" id="avia-default-js"></script>
     <script type="text/javascript" src="/wp-content/themes/enfold/js/shortcodes.js?ver=4.7.5"
         id="avia-shortcodes-js"></script>
     <script type="text/javascript"
@@ -5451,20 +5463,15 @@ PLAu:1
     <script type="text/javascript"
         src="/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=6.0"
         id="avia-module-video-js"></script>
-    <script type="text/javascript"
-        src="/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.7.5"
+    <script type="text/javascript" src="/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.7.5"
         id="avia-popup-js-js"></script>
-    <script type="text/javascript"
-        src="/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.7.5"
+    <script type="text/javascript" src="/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.7.5"
         id="avia-lightbox-activation-js"></script>
-    <script type="text/javascript"
-        src="/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.7.5"
+    <script type="text/javascript" src="/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.7.5"
         id="avia-sticky-header-js"></script>
-    <script type="text/javascript"
-        src="/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.7.5"
+    <script type="text/javascript" src="/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.7.5"
         id="avia-widget-js-js"></script>
-    <script type="text/javascript"
-        src="/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=4.7.5"
+    <script type="text/javascript" src="/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=4.7.5"
         id="avia_blocks_front_script-js"></script>
 
 
